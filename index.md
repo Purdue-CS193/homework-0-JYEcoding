@@ -1,4 +1,8 @@
 # Jaden's First CS193 Homwork
+Some of my favorite things about CS193
+- Casual Environment that makes learning about coding fun
+- Gives actual tips about Github which is important for real life
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
